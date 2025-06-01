@@ -13,12 +13,12 @@ This repository presents a ROS 2-based autonomous driving system for a low-cost 
 
 ## Hardware Setup
 
-- Raspberry Pi 4 or Jetson Nano
+- Raspberry Pi 
 - Differential drive or Ackermann-steering robot base
-- Camera (e.g., USB webcam or Intel RealSense)
-- IMU sensor (MPU6050 )
-- GPS module (optional)
-- Motor drivers ( L298N )
+- Camera USB webcam or Intel RealSense
+- IMU sensor MPU6050 
+- GPS module 
+- Motor drivers  L298N 
 - ROS 2-compatible microcontroller 
 ## Software Stack
 
